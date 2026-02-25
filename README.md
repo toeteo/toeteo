@@ -1,16 +1,17 @@
-## Hi there 👋
+## Projects
+- [**Best Bike Paths - Requirement Analysis and Specification + Design Project**](https://github.com/xxFidxx/EnutGiovanelliGuri)
+- [**Galaxy Truckers - Java Multiplayer Game**](https://github.com/xxFidxx/ing-sw-2025-Guri-Giovanelli-DeBlasio-Enut)
+- [**FPGA Programming Project - VHDL**](https://github.com/toeteo/progetto_reti_logiche)
+- [**High Performance C Project**](https://github.com/toeteo/progetto_api)
+- [**Random Terrain Generation - Blender Addon in Python**](https://github.com/toeteo/blender_noise)
 
-<!--
-**toeteo/toeteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Bachelor's degree in Computer Science and Engineering at Politecnico di Milano.\
+Currently a master student in Computer Science at Politecnico di Milano.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Language|Level  |
+|--|--|
+|English| C2 certified |
+|German| C1 certified |
+|Italian| native |
+|Romanian| native |
