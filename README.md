@@ -11,6 +11,7 @@ Some of my work is on my [academic profile](https://github.com/MatteoEnut).
 |Romanian| native |
 
 ## Projects
+- [bethit](https://github.com/toeteo/betting-exchange) - Betting Exchange using Python and Vanilla JS
 - [Best Bike Paths](https://github.com/xxFidxx/EnutGiovanelliGuri) - Requirement Analysis and Specification + Design Project
 - [Galaxy Trucker](https://github.com/xxFidxx/ing-sw-2025-Guri-Giovanelli-DeBlasio-Enut) - Java Multiplayer Game
 - [FPGA Programming Project](https://github.com/toeteo/progetto_reti_logiche) - VHDL
