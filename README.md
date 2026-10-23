@@ -1,12 +1,12 @@
 ## About me
-Bachelor's Degree in Computer Science and Engineering at Politecnico di Milano.\
-Currently a Master's Student in Computer Science at Politecnico di Milano.\
+BSc in Computer Science and Engineering at Politecnico di Milano.\
+Currently a Master's Student in Computer Science and Engineering at Politecnico di Milano.\
 Some of my work is on my [academic profile](https://github.com/MatteoEnut).
 
 |Language|Level  |
 |--|--|
-|English| C2 certified |
-|German| C1 certified |
+|English| C2 IELTS |
+|German| C1 Goethe |
 |Italian| native |
 |Romanian| native |
 
