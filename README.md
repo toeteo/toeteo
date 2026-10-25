@@ -1,6 +1,6 @@
 ## About me
 BSc in Computer Science and Engineering at Politecnico di Milano.\
-Currently a Master's Student in Computer Science and Engineering at Politecnico di Milano.\
+Currently a Master's Student in Computer Science and Engineering at Politecnico di Milano.
 
 |Language|Level  |
 |--|--|
