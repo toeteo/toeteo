@@ -1,6 +1,6 @@
 ## About me
-BSc in Computer Science and Engineering at Politecnico di Milano.\
-Currently a Master's Student in Computer Science and Engineering at Politecnico di Milano.
+**BSc** in **Computer Science and Engineering** at Politecnico di Milano.\
+Currently a **MSc** Student in **Computer Science and Engineering** at Politecnico di Milano.
 
 |Language|Level  |
 |--|--|
@@ -8,6 +8,9 @@ Currently a Master's Student in Computer Science and Engineering at Politecnico 
 |German| C1 Goethe |
 |Italian| native |
 |Romanian| native |
+
+## Experience
+[Mar-Aug/2026] **DevOps Developer Intern** - _On The Cloud S.R.L._
 
 ## Projects
 - [bethit](https://github.com/toeteo/betting-exchange) - Betting Exchange using Python and Vanilla JS
